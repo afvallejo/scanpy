@@ -45,6 +45,7 @@ Sample demultiplexing, Doublet detection
    pp.scrublet_simulate_doublets
    pl.scrublet_score_distribution
    pp.hashsolo
+   pp.sctransform
 
 Imputation
 ~~~~~~~~~~
